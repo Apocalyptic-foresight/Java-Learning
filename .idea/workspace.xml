@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ca07f0-6994-48f1-82f1-305254e10b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/control/PringtDaffodils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,15 +30,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/control/PringtDaffodils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="2" />
               <folding>
                 <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -60,6 +69,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/control/PrintMultiplicationTable.java" />
         <option value="$PROJECT_DIR$/src/control/PringtDaffodils.java" />
+        <option value="$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java" />
       </list>
     </option>
   </component>
@@ -138,7 +148,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PringtDaffodils">
+  <component name="RunManager" selected="Application.MaxrOfThreeNumber">
+    <configuration name="MaxrOfThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.MaxrOfThreeNumber" />
+      <module name="ToBeGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PringtDaffodils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="control.PringtDaffodils" />
       <module name="ToBeGod" />
@@ -231,6 +254,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxrOfThreeNumber" />
         <item itemvalue="Application.PringtDaffodils" />
         <item itemvalue="Application.PrintMultiplicationTable" />
       </list>
@@ -247,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571406525650</updated>
       <workItem from="1571406527200" duration="1008000" />
-      <workItem from="1571413570194" duration="1356000" />
+      <workItem from="1571413570194" duration="2255000" />
     </task>
     <task id="LOCAL-00001">
       <created>1571406656240</created>
@@ -263,17 +287,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571407490892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1571415092069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571415092069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2364000" />
+    <option name="totallyTimeSpent" value="3263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -283,7 +314,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,12 +366,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/control/PringtDaffodils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
