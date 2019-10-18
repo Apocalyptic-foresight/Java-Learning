@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ca07f0-6994-48f1-82f1-305254e10b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/control/SumThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,37 +17,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/control/PrintMultiplicationTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/control/PringtDaffodils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/control/SumThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="220">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/control/PrintMultiplicationTable.java" />
         <option value="$PROJECT_DIR$/src/control/PringtDaffodils.java" />
         <option value="$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java" />
+        <option value="$PROJECT_DIR$/src/control/SumThree.java" />
       </list>
     </option>
   </component>
@@ -103,6 +82,11 @@
             <path>
               <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToBeGod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToBeGod" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
@@ -148,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxrOfThreeNumber">
+  <component name="RunManager" selected="Application.SumThree">
     <configuration name="MaxrOfThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="control.MaxrOfThreeNumber" />
       <module name="ToBeGod" />
@@ -177,6 +161,19 @@
     </configuration>
     <configuration name="PrintMultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="control.PrintMultiplicationTable" />
+      <module name="ToBeGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.SumThree" />
       <module name="ToBeGod" />
       <extension name="coverage">
         <pattern>
@@ -254,6 +251,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumThree" />
         <item itemvalue="Application.MaxrOfThreeNumber" />
         <item itemvalue="Application.PringtDaffodils" />
         <item itemvalue="Application.PrintMultiplicationTable" />
@@ -271,7 +269,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571406525650</updated>
       <workItem from="1571406527200" duration="1008000" />
-      <workItem from="1571413570194" duration="2255000" />
+      <workItem from="1571413570194" duration="3305000" />
     </task>
     <task id="LOCAL-00001">
       <created>1571406656240</created>
@@ -294,11 +292,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571415092069</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交">
+      <created>1571416060996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571416060997</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3263000" />
+    <option name="totallyTimeSpent" value="4313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -377,8 +382,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="59">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/control/SumThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
