@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ca07f0-6994-48f1-82f1-305254e10b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,25 +20,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/control/SumThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+            <state relative-caret-position="484">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/control/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/control/PrintMultiplicationTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
-                <element signature="e#85#86#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/control/Factorial.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/control/PringtDaffodils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -57,12 +90,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/control/PrintStar.java" />
+        <option value="$PROJECT_DIR$/src/control/SumThree.java" />
         <option value="$PROJECT_DIR$/src/control/PrintMultiplicationTable.java" />
         <option value="$PROJECT_DIR$/src/control/PringtDaffodils.java" />
         <option value="$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java" />
-        <option value="$PROJECT_DIR$/src/control/SumThree.java" />
         <option value="$PROJECT_DIR$/src/control/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/control/PrintStar.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -79,8 +113,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="493" />
-    <option name="y" value="-11" />
+    <option name="x" value="-159" />
+    <option name="y" value="283" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -100,25 +134,14 @@
             <path>
               <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToBeGod" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToBeGod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToBeGod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToBeGod" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="control" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +169,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxrOfThreeNumber">
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.BubbleSort" />
+      <module name="ToBeGod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="control.Factorial" />
       <module name="ToBeGod" />
@@ -162,19 +198,6 @@
     </configuration>
     <configuration name="MaxrOfThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="control.MaxrOfThreeNumber" />
-      <module name="ToBeGod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="control.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PringtDaffodils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.PringtDaffodils" />
       <module name="ToBeGod" />
       <extension name="coverage">
         <pattern>
@@ -278,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.PrintStar" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.SumThree" />
         <item itemvalue="Application.MaxrOfThreeNumber" />
-        <item itemvalue="Application.PringtDaffodils" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +321,7 @@
       <updated>1571406525650</updated>
       <workItem from="1571406527200" duration="1008000" />
       <workItem from="1571413570194" duration="6603000" />
+      <workItem from="1571450143707" duration="2672000" />
     </task>
     <task id="LOCAL-00001">
       <created>1571406656240</created>
@@ -341,17 +365,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571418662114</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交">
+      <created>1571450365645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571450365645</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7611000" />
+    <option name="totallyTimeSpent" value="10283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -361,7 +392,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,10 +431,21 @@
     <entry file="file://$PROJECT_DIR$/ToBeGod.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/control/PrintStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/control/SumThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/control/PrintMultiplicationTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#207#208#0" expanded="true" />
@@ -413,51 +455,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/control/PringtDaffodils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/control/MaxrOfThreeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/control/SumThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/control/PrintStar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="319">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/control/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
         </state>
       </provider>
     </entry>
