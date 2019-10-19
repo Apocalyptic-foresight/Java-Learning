@@ -1,6 +1,7 @@
 package Arrays;
 
 import java.util.Scanner;
+
 /**
  * @Author: yangli16
  * @Description: 冒泡排序
@@ -13,7 +14,7 @@ public class BubbleSort {
         int num = input.nextInt();
         System.out.println("请输入数组需排序数组:");
         int[] ints = initArray(num);
-        getArraySort(ints);
+        optimizationMethod(ints);
         System.out.println("排序后数组为:");
         printArray(ints);
     }
@@ -37,6 +38,7 @@ public class BubbleSort {
             }
         }
     }
+
 
     /**
      * @Author: yangli
@@ -63,6 +65,31 @@ public class BubbleSort {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + "\t");
         }
+
+    }
+
+    /**
+     * @Author: yangli
+     * @Description: 优化冒泡排序
+     * @Date: 12:44 2019/10/19
+     */
+    static void optimizationMethod(int[] arr) {
+        boolean hasExchange = false;
+        int temp;
+        for (int i = 0; i < arr.length - 1; i++) {
+            for (int j = 0; j < arr.length - i - 1; j++) {
+                if (arr[j] >= arr[j + 1]) {
+                    temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                    hasExchange = true;
+                }
+            }
+            if (!hasExchange) {
+                break;
+            }
+        }
+
 
     }
 }
