@@ -1,8 +1,10 @@
 package control;
 
 import java.util.Scanner;
+
 /**
  * 获取3位数中最大的数
+ *
  * @Author: yangli16
  * @Description: 获取3位数中最大的数
  * @Date: 0:26 2019/10/19

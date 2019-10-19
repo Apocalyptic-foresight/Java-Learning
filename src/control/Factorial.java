@@ -1,4 +1,5 @@
 package control;
+
 /**
  * @Author: yangli
  * @Description: 求1!+2!+***+20!
@@ -16,11 +17,11 @@ public class Factorial {
      * @Param: num
      * @return: long
      */
-    static long sum(int num){
-        if (num==1){
+    static long sum(int num) {
+        if (num == 1) {
             return 1;
         }
-        return sum(num-1) + getFactorial(num);
+        return sum(num - 1) + getFactorial(num);
     }
 
     /**
@@ -34,6 +35,6 @@ public class Factorial {
         if (num == 1) {
             return 1;
         }
-        return getFactorial(num-1) * num;
+        return getFactorial(num - 1) * num;
     }
 }
